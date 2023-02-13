@@ -12,4 +12,3 @@ A simple and easy-to-use calculator for Android.
 
 ## Contributions
 Feel free to contribute to the project by opening up pull requests and improving the code.
-
